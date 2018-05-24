@@ -1,0 +1,56 @@
+Welcome to rtweet v0.4.0!
+Warning message:
+package 'rtweet' was built under R version 3.4.2 
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 2.2.1     v purrr   0.2.4
+v tibble  1.4.2     v dplyr   0.7.4
+v tidyr   0.8.0     v stringr 1.2.0
+v readr   1.1.1     v forcats 0.2.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Warning messages:
+1: package 'tidyverse' was built under R version 3.4.4 
+2: package 'ggplot2' was built under R version 3.4.3 
+3: package 'tibble' was built under R version 3.4.4 
+4: package 'tidyr' was built under R version 3.4.4 
+5: package 'purrr' was built under R version 3.4.4 
+6: package 'dplyr' was built under R version 3.4.2 
+Loading required package: methods
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.4.4 
+Welcome to rtweet v0.4.0!
+Warning message:
+package 'rtweet' was built under R version 3.4.2 
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 2.2.1     v purrr   0.2.4
+v tibble  1.4.2     v dplyr   0.7.4
+v tidyr   0.8.0     v stringr 1.2.0
+v readr   1.1.1     v forcats 0.2.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Warning messages:
+1: package 'tidyverse' was built under R version 3.4.4 
+2: package 'ggplot2' was built under R version 3.4.3 
+3: package 'tibble' was built under R version 3.4.4 
+4: package 'tidyr' was built under R version 3.4.4 
+5: package 'purrr' was built under R version 3.4.4 
+6: package 'dplyr' was built under R version 3.4.2 
+Loading required package: methods
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.4.4 
